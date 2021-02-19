@@ -1,4 +1,4 @@
-package tool;
+package Set_Implementation;
 import java.util.Collection;
 
 public class LinkedListSet<E extends Comparable<E>> implements ISet<E>{
