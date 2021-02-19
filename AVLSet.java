@@ -1,4 +1,3 @@
-package tool;
 import java.util.Collection;
 
 public class AVLSet<E extends Comparable<E>> implements ISet<E>{
